@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"  standalone="no"?>
+<svg 
+ width="350" height="262"
+ viewBox="0 0 350 262"
+ xmlns="http://www.w3.org/2000/svg"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+>
+
+<title>Gnuplot</title>
+<desc>Produced by GNUPLOT 5.4 patchlevel 2 </desc>
+
+<g id="gnuplot_canvas">
+
+<rect x="0" y="0" width="350" height="262" fill="none"/>
+<defs>
+
+	<circle id='gpDot' r='0.5' stroke-width='0.5' stroke='currentColor'/>
+	<path id='gpPt0' stroke-width='0.222' stroke='currentColor' d='M-1,0 h2 M0,-1 v2'/>
+	<path id='gpPt1' stroke-width='0.222' stroke='currentColor' d='M-1,-1 L1,1 M1,-1 L-1,1'/>
+	<path id='gpPt2' stroke-width='0.222' stroke='currentColor' d='M-1,0 L1,0 M0,-1 L0,1 M-1,-1 L1,1 M-1,1 L1,-1'/>
+	<rect id='gpPt3' stroke-width='0.222' stroke='currentColor' x='-1' y='-1' width='2' height='2'/>
+	<rect id='gpPt4' stroke-width='0.222' stroke='currentColor' fill='currentColor' x='-1' y='-1' width='2' height='2'/>
+	<circle id='gpPt5' stroke-width='0.222' stroke='currentColor' cx='0' cy='0' r='1'/>
+	<use xlink:href='#gpPt5' id='gpPt6' fill='currentColor' stroke='none'/>
+	<path id='gpPt7' stroke-width='0.222' stroke='currentColor' d='M0,-1.33 L-1.33,0.67 L1.33,0.67 z'/>
+	<use xlink:href='#gpPt7' id='gpPt8' fill='currentColor' stroke='none'/>
+	<use xlink:href='#gpPt7' id='gpPt9' stroke='currentColor' transform='rotate(180)'/>
+	<use xlink:href='#gpPt9' id='gpPt10' fill='currentColor' stroke='none'/>
+	<use xlink:href='#gpPt3' id='gpPt11' stroke='currentColor' transform='rotate(45)'/>
+	<use xlink:href='#gpPt11' id='gpPt12' fill='currentColor' stroke='none'/>
+	<path id='gpPt13' stroke-width='0.222' stroke='currentColor' d='M0,1.330 L1.265,0.411 L0.782,-1.067 L-0.782,-1.076 L-1.265,0.411 z'/>
+	<use xlink:href='#gpPt13' id='gpPt14' fill='currentColor' stroke='none'/>
+	<filter id='textbox' filterUnits='objectBoundingBox' x='0' y='0' height='1' width='1'>
+	  <feFlood flood-color='white' flood-opacity='1' result='bgnd'/>
+	  <feComposite in='SourceGraphic' in2='bgnd' operator='atop'/>
+	</filter>
+	<filter id='greybox' filterUnits='objectBoundingBox' x='0' y='0' height='1' width='1'>
+	  <feFlood flood-color='lightgrey' flood-opacity='1' result='grey'/>
+	  <feComposite in='SourceGraphic' in2='grey' operator='atop'/>
+	</filter>
+</defs>
+<g fill="none" color="white" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="black" stroke-width="0.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="0.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<g stroke='none' shape-rendering='crispEdges'>
+		<polygon fill = 'rgb(  0,   0,   0)' points = '78.22,93.75 116.09,93.75 116.09,118.99 153.96,93.75 153.96,169.48 116.09,144.24 116.09,169.48 78.22,169.48 78.22,93.75 '/>
+	</g>
+	<path stroke='black'  d='M78.22,93.75 L116.09,93.75 L116.09,118.99 L153.96,93.75 L153.96,169.48 L116.09,144.24 L116.09,169.48 L78.22,169.48
+		L78.22,93.75 Z  '/>Z </g>
+<g fill="none" color="black" stroke="black" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+	<g id="gnuplot_plot_1" ><title>wavefx(t,2), wavefy(t,2)</title>
+<g fill="none" color="white" stroke="black" stroke-width="4.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="4.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='rgb(  0,  96, 173)'  d='M181.68,169.48 L182.08,168.79 L182.47,168.09 L182.85,167.38 L183.23,166.68 L183.59,165.96 L183.95,165.25 L184.30,164.53
+		L184.65,163.80 L184.98,163.08 L185.31,162.35 L185.64,161.61 L185.95,160.88 L186.25,160.13 L186.55,159.39 L186.84,158.64
+		L187.12,157.89 L187.40,157.14 L187.66,156.39 L187.92,155.63 L188.17,154.87 L188.41,154.10 L188.65,153.34 L188.87,152.57
+		L189.09,151.80 L189.30,151.02 L189.50,150.25 L189.69,149.47 L189.88,148.69 L190.06,147.91 L190.22,147.13 L190.38,146.34
+		L190.54,145.55 L190.68,144.77 L190.81,143.98 L190.94,143.19 L191.06,142.39 L191.17,141.60 L191.27,140.81 L191.36,140.01
+		L191.45,139.21 L191.52,138.42 L191.59,137.62 L191.65,136.82 L191.70,136.02 L191.74,135.22 L191.78,134.42 L191.80,133.62
+		L191.82,132.82 L191.83,132.02 L191.83,131.21 L191.82,130.41 L191.80,129.61 L191.78,128.81 L191.74,128.01 L191.70,127.21
+		L191.65,126.41 L191.59,125.61 L191.52,124.81 L191.45,124.02 L191.36,123.22 L191.27,122.42 L191.17,121.63 L191.06,120.84
+		L190.94,120.04 L190.81,119.25 L190.68,118.46 L190.54,117.68 L190.38,116.89 L190.22,116.10 L190.06,115.32 L189.88,114.54
+		L189.69,113.76 L189.50,112.98 L189.30,112.21 L189.09,111.43 L188.87,110.66 L188.65,109.89 L188.41,109.13 L188.17,108.36
+		L187.92,107.60 L187.66,106.84 L187.40,106.09 L187.12,105.34 L186.84,104.59 L186.55,103.84 L186.25,103.10 L185.95,102.35
+		L185.64,101.62 L185.31,100.88 L184.98,100.15 L184.65,99.43 L184.30,98.70 L183.95,97.98 L183.59,97.27 L183.23,96.55
+		L182.85,95.85 L182.47,95.14 L182.08,94.44 L181.68,93.75  '/></g>
+	</g>
+	<g id="gnuplot_plot_2" ><title>wavefx(t,3), wavefy(t,3)</title>
+<g fill="none" color="black" stroke="currentColor" stroke-width="4.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='rgb(  0,  96, 173)'  d='M214.48,188.42 L215.07,187.37 L215.66,186.32 L216.23,185.27 L216.79,184.21 L217.34,183.14 L217.88,182.06 L218.41,180.98
+		L218.93,179.90 L219.43,178.81 L219.92,177.71 L220.41,176.61 L220.88,175.51 L221.33,174.39 L221.78,173.28 L222.22,172.16
+		L222.64,171.03 L223.05,169.91 L223.45,168.77 L223.84,167.63 L224.21,166.49 L224.57,165.35 L224.92,164.20 L225.26,163.04
+		L225.59,161.89 L225.90,160.73 L226.21,159.56 L226.50,158.40 L226.77,157.23 L227.04,156.06 L227.29,154.88 L227.53,153.70
+		L227.76,152.52 L227.97,151.34 L228.17,150.16 L228.36,148.97 L228.54,147.78 L228.71,146.59 L228.86,145.40 L229.00,144.21
+		L229.12,143.01 L229.24,141.82 L229.34,140.62 L229.43,139.42 L229.51,138.22 L229.57,137.02 L229.62,135.82 L229.66,134.62
+		L229.68,133.42 L229.70,132.22 L229.70,131.01 L229.68,129.81 L229.66,128.61 L229.62,127.41 L229.57,126.21 L229.51,125.01
+		L229.43,123.81 L229.34,122.61 L229.24,121.41 L229.12,120.22 L229.00,119.02 L228.86,117.83 L228.71,116.64 L228.54,115.45
+		L228.36,114.26 L228.17,113.07 L227.97,111.89 L227.76,110.71 L227.53,109.53 L227.29,108.35 L227.04,107.17 L226.77,106.00
+		L226.50,104.83 L226.21,103.67 L225.90,102.50 L225.59,101.34 L225.26,100.19 L224.92,99.03 L224.57,97.88 L224.21,96.74
+		L223.84,95.60 L223.45,94.46 L223.05,93.32 L222.64,92.20 L222.22,91.07 L221.78,89.95 L221.33,88.84 L220.88,87.72
+		L220.41,86.62 L219.92,85.52 L219.43,84.42 L218.93,83.33 L218.41,82.25 L217.88,81.17 L217.34,80.09 L216.79,79.02
+		L216.23,77.96 L215.66,76.91 L215.07,75.86 L214.48,74.81  '/></g>
+	</g>
+	<g id="gnuplot_plot_3" ><title>wavefx(t, 4), wavefy(t,4)</title>
+<g fill="none" color="black" stroke="currentColor" stroke-width="4.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='rgb(  0,  96, 173)'  d='M247.27,207.35 L248.07,205.96 L248.85,204.56 L249.61,203.15 L250.36,201.74 L251.09,200.31 L251.81,198.88 L252.52,197.44
+		L253.20,195.99 L253.88,194.54 L254.54,193.08 L255.18,191.61 L255.80,190.14 L256.42,188.65 L257.01,187.17 L257.59,185.67
+		L258.15,184.17 L258.70,182.67 L259.23,181.16 L259.75,179.64 L260.25,178.12 L260.73,176.59 L261.20,175.06 L261.65,173.52
+		L262.09,171.98 L262.51,170.43 L262.91,168.88 L263.30,167.33 L263.67,165.77 L264.02,164.20 L264.35,162.64 L264.67,161.07
+		L264.98,159.49 L265.26,157.92 L265.53,156.34 L265.79,154.76 L266.02,153.17 L266.24,151.58 L266.45,150.00 L266.63,148.40
+		L266.80,146.81 L266.95,145.22 L267.09,143.62 L267.21,142.02 L267.31,140.42 L267.39,138.82 L267.46,137.22 L267.51,135.62
+		L267.55,134.02 L267.56,132.42 L267.56,130.81 L267.55,129.21 L267.51,127.61 L267.46,126.01 L267.39,124.41 L267.31,122.81
+		L267.21,121.21 L267.09,119.61 L266.95,118.01 L266.80,116.42 L266.63,114.83 L266.45,113.23 L266.24,111.65 L266.02,110.06
+		L265.79,108.47 L265.53,106.89 L265.26,105.31 L264.98,103.74 L264.67,102.16 L264.35,100.59 L264.02,99.03 L263.67,97.46
+		L263.30,95.90 L262.91,94.35 L262.51,92.80 L262.09,91.25 L261.65,89.71 L261.20,88.17 L260.73,86.64 L260.25,85.11
+		L259.75,83.59 L259.23,82.07 L258.70,80.56 L258.15,79.06 L257.59,77.56 L257.01,76.06 L256.42,74.58 L255.80,73.09
+		L255.18,71.62 L254.54,70.15 L253.88,68.69 L253.20,67.24 L252.52,65.79 L251.81,64.35 L251.09,62.92 L250.36,61.49
+		L249.61,60.08 L248.85,58.67 L248.07,57.27 L247.27,55.88  '/></g>
+	</g>
+<g fill="none" color="white" stroke="rgb(  0,  96, 173)" stroke-width="2.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="2.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="black" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+</g>
+</svg>
+

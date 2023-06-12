@@ -1,0 +1,2 @@
+/usr/bin/ar qc libplp11.a CMakeFiles/plp11.dir/plp11.cpp.o
+/usr/bin/ranlib libplp11.a
